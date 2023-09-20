@@ -1,3 +1,6 @@
+![Language](https://img.shields.io/badge/language-javascypt-yellow.svg?style=flat)
+
+
 # GPT-4 Discord Bot
 
 Ce bot Discord utilise l'API OpenAI pour intégrer GPT-4, le modèle de langage avancé, dans un environnement de chat en temps réel.
