@@ -1,1 +1,1 @@
-# chatgpt4-discord-bot
+# chtgpt4-discord-bot
